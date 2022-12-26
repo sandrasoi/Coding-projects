@@ -1,5 +1,5 @@
 # Coding-projects
-As part of my continous journey of improving my coding skills, I create and work on differnt projects.
+As part of my continous journey of improving my coding skills, I create and work on different projects.
 
 Finance calculator focuses on if-else statements and variables. It calculates the total potential investement and monthly mortgage repayments given user's contraints.
 
