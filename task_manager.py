@@ -29,13 +29,6 @@ for i in range(len(userdetails)):
     else:
         password.append(userdetails[i])
 
-
-while True:
-    if username_input in username:
-    #print("Username matches")
-    position_of_username = username.index(username_input)
-    if password[position_of_username] == password_input:
-        print("You may enter")
 #print(username)
 #print(password)
 
