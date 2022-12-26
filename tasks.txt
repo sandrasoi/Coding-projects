@@ -1,17 +1,6 @@
-Task:              ksdksdfjksdjk
-Assigned to:       new person
+Task:              Task example
+Assigned to:       admin
 Due date:          2024
 Task complete?     No
-Task description:  kjladskjlgadklgd
+Task description:  This is task description. 
 
-Task:              hello
-Assigned to:       helo
-Due date:          hello#
-Task complete?     No
-Task description:  hello
-
-Task:              hello
-Assigned to:       admin
-Due date:          hello#
-Task complete?     No
-Task description:  hello
