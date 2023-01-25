@@ -1,0 +1,25 @@
+Country,Code,Product,Cost,Quantity
+Air Max 90,SKU44386,Air Max 90,2300,20
+Jordan 1,SKU90000,Jordan 1,3200,50
+Blazer,SKU63221,Blazer,1700,19
+Cortez,SKU29077,Cortez,970,60
+Air Force 1,SKU89999,Air Force 1,2000,43
+Waffle Racer,SKU57443,Waffle Racer,2700,4
+Air Max 97,SKU68677,Air Max 97,3600,13
+Dunk SB,SKU19888,Dunk SB,1500,26
+Kobe 4,SKU76000,Kobe 4,3400,32
+Pegasus,SKU84500,Pegasus,2490,28
+Air Presto,SKU20207,Air Presto,2999,7
+Challenge Court,SKU77744,Challenge Court,1450,11
+Air Zoom Generation,SKU29888,Air Zoom Generation,2680,6
+Flyknit Racer,SKU33000,Flyknit Racer,4900,9
+Air Yeezy 2,SKU77999,Air Yeezy 2,4389,67
+Air Jordan 11,SKU44600,Air Jordan 11,3870,24
+Air Huarache,SKU87500,Air Huarache,2683,8
+Air Max 1,SKU38773,Air Max 1,1900,29
+Air Mag,SKU95000,Air Mag,2000,2
+Air Foamposite,SKU79084,Air Foamposite,2430,4
+Air Stab,SKU93222,Air Stab,1630,10
+Hyperdunk,SKU66734,Hyperdunk,1899,7
+Zoom Hyperfuse,SKU71827,Zoom Hyperfuse,1400,15
+Eric Koston 1,SKU20394,Eric Koston 1,2322,17
